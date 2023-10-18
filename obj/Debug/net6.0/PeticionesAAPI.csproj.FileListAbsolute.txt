@@ -1,0 +1,17 @@
+C:\Alucard\Practicas\PeticionesAAPI\bin\Debug\net6.0\PeticionesAAPI.exe
+C:\Alucard\Practicas\PeticionesAAPI\bin\Debug\net6.0\PeticionesAAPI.deps.json
+C:\Alucard\Practicas\PeticionesAAPI\bin\Debug\net6.0\PeticionesAAPI.runtimeconfig.json
+C:\Alucard\Practicas\PeticionesAAPI\bin\Debug\net6.0\PeticionesAAPI.dll
+C:\Alucard\Practicas\PeticionesAAPI\bin\Debug\net6.0\PeticionesAAPI.pdb
+C:\Alucard\Practicas\PeticionesAAPI\obj\Debug\net6.0\PeticionesAAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alucard\Practicas\PeticionesAAPI\obj\Debug\net6.0\PeticionesAAPI.AssemblyInfoInputs.cache
+C:\Alucard\Practicas\PeticionesAAPI\obj\Debug\net6.0\PeticionesAAPI.AssemblyInfo.cs
+C:\Alucard\Practicas\PeticionesAAPI\obj\Debug\net6.0\PeticionesAAPI.csproj.CoreCompileInputs.cache
+C:\Alucard\Practicas\PeticionesAAPI\obj\Debug\net6.0\PeticionesAAPI.dll
+C:\Alucard\Practicas\PeticionesAAPI\obj\Debug\net6.0\refint\PeticionesAAPI.dll
+C:\Alucard\Practicas\PeticionesAAPI\obj\Debug\net6.0\PeticionesAAPI.pdb
+C:\Alucard\Practicas\PeticionesAAPI\obj\Debug\net6.0\PeticionesAAPI.genruntimeconfig.cache
+C:\Alucard\Practicas\PeticionesAAPI\obj\Debug\net6.0\ref\PeticionesAAPI.dll
+C:\Alucard\Practicas\PeticionesAAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Alucard\Practicas\PeticionesAAPI\obj\Debug\net6.0\PeticionesAAPI.csproj.AssemblyReference.cache
+C:\Alucard\Practicas\PeticionesAAPI\obj\Debug\net6.0\PeticionesAAPI.csproj.CopyComplete
